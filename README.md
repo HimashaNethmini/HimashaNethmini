@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Software and web development projects
 
-- 🌱 I’m currently learning MERN, Springboot, Angular, and Oracle
+- 🌱 I’m currently interested in learning  MERN, Springboot, Angular, and Oracle
 
 - 👯 I’m looking to collaborate on Projects
 
