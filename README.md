@@ -1,9 +1,9 @@
 ### Hola, I'm Himasha Nethmini 👋
 
 
-- 🔭 I’m currently working on Software and web development projects
+- 🔭 I’m currently working on Software and Web development projects
 
-- 🌱 I’m currently interested in learning  MERN, Springboot, Angular, and Oracle
+- 🌱 I’m currently interested in learning  React js, Native React and Angular
 
 - 👯 I’m looking to collaborate on Projects
 
