@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on Projects
 
-- 💬 Ask me about Java and Java Script
+- 💬 Ask me about Java, Python and Java Script
 
 - 📫 How to reach me:
       **LinkedIn**  [@himashanethmini](https://www.linkedin.com/in/himasha-nethmini-4b32a1231/)
