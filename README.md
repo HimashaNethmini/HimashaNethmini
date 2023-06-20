@@ -1,7 +1,7 @@
 ### Hola, I'm Himasha Nethmini 👋
 
 
-- 🔭 I’m currently working on Software and Web development projects
+- 🔭 I’m a undergraduate at SLIIT, currently working on Software and Web development projects
 
 - 🌱 I’m currently interested in learning  React js, Native React and Angular
 
