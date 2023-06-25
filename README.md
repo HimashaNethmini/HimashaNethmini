@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help in **Java**
 
-- 💬 Ask me about **MERN,Python**
+- 💬 Ask me about **MERN, Python**
 
 - 📫 How to reach me **himashanethmini24@gmail.com**
 
