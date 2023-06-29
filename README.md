@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himasha Nethmini</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
-<p alighn ="left"> <img align="right" alt="Coding image" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://images.app.goo.gl/AwUnpjbQR77w1w7r9)" >
+<p alighn ="left"> <img align="right" alt="Coding image" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif(https://images.app.goo.gl/AwUnpjbQR77w1w7r9)" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himashanethmini&label=Profile%20views&color=0e75b6&style=flat" alt="himashanethmini" /> </p>
 
 - 🔭 I’m currently working on **projects on below technologies**
