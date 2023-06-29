@@ -1,4 +1,4 @@
-<img align="center" src = "https://www.pngall.com/wp-content/uploads/2016/03/Heart.png" width="50" breadth="50" >
+<img src = "https://www.pngall.com/wp-content/uploads/2016/03/Heart.png" width="50" breadth="50" align="left" >
 <h1 align="center">Hi 👋, I'm Himasha Nethmini</h1> 
 
 <h3 align="center"><b> <i>A passionate FullStack Developer</i></b></h3>
