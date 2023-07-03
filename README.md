@@ -6,11 +6,11 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himashanethmini&label=Profile%20views&color=0e75b6&style=flat" alt="himashanethmini" /> </p>
 
-- 🔭 I’m currently working on **projects on below technologies**
+- 🔭 I’m currently working on **projects on below frameworks**
 
-- 🌱 I’m currently learning **Angular, Next JS and React Native**
+- 🌱 I’m currently learning **Angular, React JS, Next JS and React Native**
 
-- 👯 I’m looking to collaborate on **projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 🤝 I’m looking for help in **Java**
 
