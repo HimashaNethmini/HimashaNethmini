@@ -6,7 +6,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himashanethmini&label=Profile%20views&color=0e75b6&style=flat" alt="himashanethmini" /> </p>
 
-- 🔭 I’m currently working on **projects on below frameworks...**
+- 🔭 I’m currently working on **projects on below frameworks..**
 
 - 🌱 I’m currently learning **Springboot, React JS, Next JS and React Native**
 
