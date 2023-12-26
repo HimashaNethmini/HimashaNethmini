@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **MERN, Python**
   
-- 👨‍💻 How to reach me **My portfolio**
+- 👨‍💻 How to reach me [**My Portfolio**](https://himasharanwala.netlify.app/)
 
 - 📫 Email me **himashanethmini24@gmail.com**
 
