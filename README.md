@@ -15,8 +15,10 @@
 - 🤝 I’m looking for help in **C#**
 
 - 💬 Ask me about **MERN, Python**
+  
+- 👨‍💻 How to reach me **My portfolio**
 
-- 📫 How to reach me **himashanethmini24@gmail.com**
+- 📫 Email me **himashanethmini24@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
