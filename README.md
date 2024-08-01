@@ -1,5 +1,5 @@
 <img src = "https://www.pngall.com/wp-content/uploads/2016/03/Heart.png" width="50" breadth="50" align="left" >
-<h1 align="center">Hello 👋, I'm Himasha Nethmini</h1> 
+<h1 align="center">Hello 👋 I'm Himasha Nethmini</h1> 
 
 <h3 align="center"><b> <i> Logic becomes art, mastery is the canvas</i></b></h3>
 <p alighn ="left"> <img align="right" alt="Coding image" width="400" src= "https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966" >
