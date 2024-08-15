@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **projects on below frameworks**
 
-- 🌱 I’m currently learning **Springboot, React JS, Next JS and React Native**
+- 🌱 I’m currently learning **Springboot, React JS, Next JS and Nest JS**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
