@@ -35,5 +35,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himashanethmini&show_icons=true&locale=en" alt="himashanethmini" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himashanethmini&" alt="himashanethmini" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himashanethmini" alt="himashanethmini" /></p>
 
