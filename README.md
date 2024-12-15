@@ -2,6 +2,9 @@
 <h1 align="center">Hello 👋 I'm Himasha Nethmini</h1> 
 
 <h3 align="center"><b> <i> Logic becomes art, mastery is the canvas</i></b></h3>
+
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/HimashaNethmini.svg)](https://user-badge.committers.top/sri_lanka_private/HimashaNethmini)
+
 <p alighn ="left"> <img align="right" alt="Coding image" width="400" src= "https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" >
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himashanethmini&label=Profile%20views&color=0e75b6&style=flat" alt="himashanethmini" /> </p>
