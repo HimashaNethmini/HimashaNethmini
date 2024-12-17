@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **projects related to below frameworks**
 
-- 🌱 I’m currently learning **Springboot, React JS, NextJs and NestJs**
+- 🌱 I’m currently learning **React JS, NextJs and NestJs**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
