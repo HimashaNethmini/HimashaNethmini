@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help in **C#**
+- 🤝 I’m looking for help in  **C#**
 
 - 💬 Ask me about **MERN, Python**
   
