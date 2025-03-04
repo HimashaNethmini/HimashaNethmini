@@ -108,14 +108,8 @@
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=firebase" />
   </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=oracle" />
-  </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postman" />
-  </a>
-    <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=swagger" />
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=aws" />
