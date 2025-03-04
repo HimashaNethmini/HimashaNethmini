@@ -34,15 +34,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> < rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href=""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a><a href="https://firebase.google.com//" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href=> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href=""> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p align="center">
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=tailwind" />
-  </a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  </a> 
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=bootstrap" />
-  </a>
+  </a> 
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=sass" />
   </a>
@@ -61,20 +60,65 @@
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cs" />
   </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=c" />
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=java" />
   </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" />
   </a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=sass" />
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=express" />
   </a>
-  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=androidstudio" />
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nextjs" />
+  </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nestjs" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tensorflow" />
+  </a>
+    <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=prisma" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgres" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=oracle" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+    <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=swagger" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=aws" />
   </a>
   
 </p>
