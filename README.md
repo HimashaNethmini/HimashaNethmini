@@ -92,11 +92,12 @@
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=tensorflow" />
-  </a>
+  </a>  <br/>  <br/>
     <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=prisma" />
   </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+
+  <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postgres" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -111,15 +112,15 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postman" />
   </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=aws" />
   </a>
-  
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himashanethmini&show_icons=true&locale=en&layout=compact" alt="himashanethmini" /></p>
+<br/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=himashanethmini&show_icons=true&locale=en" alt="himashanethmini" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himashanethmini&show_icons=true&locale=en" alt="himashanethmini" /></p>
+<p align="center">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himashanethmini&show_icons=true&locale=en&layout=compact" alt="himashanethmini" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himashanethmini" alt="himashanethmini" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himashanethmini" alt="himashanethmini" /></p>
 
